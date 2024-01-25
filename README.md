@@ -1,7 +1,7 @@
-# CS-433 Project 2 : Tweet Sentiment Classification
+# Tweet Sentiment Classification
 
 ## About
-Tweet text classification project for positive and negative sentiment as part of the 2023 EPFL Machine Learning Course. Our team name on AIcrowd is [bert_simpson](https://www.aicrowd.com/challenges/epfl-ml-text-classification/teams/bert_simpson). The project is a binary classification task. It aims to determine whether a tweet expresses some positive or some negative sentiment. Several supervised methods have been implemented. A logistic regression, a support vector machine, and a neural network. All these methods were outperformed by BERT models that were also implemented. We used a classical BERT model, a distilled version, and a version specialized for english tweet sentiment analysis.
+The project is a binary classification task. It aims to determine whether a tweet expresses some positive or some negative sentiment. Several supervised methods have been implemented. A logistic regression, a support vector machine, and a neural network. All these methods were outperformed by BERT models that were also implemented. We used a classical BERT model, a distilled version, and a version specialized for english tweet sentiment analysis.
 
 Tasks of the code for the standard classifiers (logistic regression, support vector machines, neural network):
 - Load the data
